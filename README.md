@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 
-**whdygks210/whdygks210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**someday-94/someday-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=whdygks210&count_private=true&show_icons=true&include_all_commits=true) -->
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=someday-94&count_private=true&show_icons=true&include_all_commits=true) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whdygks210&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=someday-94&hide=TeX&layout=compact)
